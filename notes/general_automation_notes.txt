@@ -1,1 +1,5 @@
-Data items == data containers 
+1. Data items == data containers 
+
+   There are 2 types of visibility - Global and Local, which leads to 2 types of Data Items.
+
+2. All actions must be published overwise they will remain private  
