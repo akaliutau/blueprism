@@ -1,0 +1,10 @@
+Identifying control elements:
+
+Approach 1:
+  1. Create a new Application Model with pre-defined executable to launch
+  2. Click Launch button
+  3. Click Identify -> Open UI Automation Navigator
+
+Approach 2:
+  1. Click Identify
+  2. After object has been identified on the global scale, press Ctrl + Left btn on mouse  
