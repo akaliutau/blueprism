@@ -8,3 +8,5 @@ Approach 1:
 Approach 2:
   1. Click Identify
   2. After object has been identified on the global scale, press Ctrl + Left btn on mouse  
+  
+  
