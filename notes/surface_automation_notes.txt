@@ -1,4 +1,2 @@
-Set the selector for title of page to look up in order to avoid the mistake:
-
-Internal : Failed to perform step 1 in Navigate Stage 'Attach' on page 'Attach' - Target application could not be identified, please ensure the application is running and review the following action inputs and/or application model identifiers: WindowTitle
+1. To create a region, first identify the parent element, using Identify -> Spy Element in Application Modeller, then choose Region Mode (by pressing ALT several times)
 
